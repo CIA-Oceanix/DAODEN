@@ -1,0 +1,2 @@
+2020-09-08 17:07:56,229 - root - #====================================
+2020-09-08 17:07:56,230 - root - Loading weights from dt_obs-0.05-seg_len-150-40-bs-4-n_samples-1-nsh-2-lr-1e-03-1e-03-gcl-1.0-scheduler-0.10-1000-2001-std_min-0.001_0.001_0.2-n_epochs-2501-L96-r-0.19_att-2481.pt

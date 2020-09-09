@@ -1,0 +1,3 @@
+2020-09-08 18:08:57,479 - root - #====================================
+2020-09-08 18:08:57,480 - root - Loading weights from dt_obs-0.05-seg_len-150-40-bs-4-n_samples-1-nsh-2-lr-1e-03-1e-03-gcl-1.0-scheduler-0.10-1000-2001-std_min-0.001_0.001_0.2-n_epochs-2501-L96-r-0.19_att-2481.pt
+2020-09-08 18:58:09,856 - root - Test, epoch: 2482, -1, log_p: -4.38e-01, log_prior: 5.27e+01, log_q: 7.08e+01, elbo: -8.79e-01, std_p: 1.97e-01, std_prior: 4.24e-02, std_q: 3.45e-02, time per epoch: 1.92s
