@@ -6,12 +6,13 @@
 # =============================================================================
 """Dataset utils for DAODEN"""
 
-
 import numpy as np
 import os
 import pickle
 from torch.utils.data import Dataset
 import daoden_utils
+from scipy.integrate import odeint
+from scipy.integrate import ode
 
 class DAODEN_Dataset(Dataset):
     """DAODEN dataset."""
